@@ -23,7 +23,6 @@ const Home = () => {
               alt="logo"
               className="w-12 h-12 object-contain"
             />
-            <p>BroCode</p>
           </motion.header>
 
           <motion.div className="home-content" {...headContainerAnimation}>
